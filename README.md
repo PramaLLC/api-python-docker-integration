@@ -64,4 +64,4 @@ if __name__ == "__main__":
 
 
 ## API Documentation
-For full API documentation visit: https://backgrounderase.net/api-docs
+For full API documentation visit: https://backgrounderase.net/docs
