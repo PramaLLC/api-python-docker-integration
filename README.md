@@ -5,8 +5,8 @@ Docker flask server for the BEN API that removes backgrounds from images.
 ## Installation
 
 ```bash
-git clone https://github.com/PramaLLC/api-python-docker-integration
-cd api-python-docker-integration
+git clone https://github.com/PramaLLC/ben-api-python-docker-integration
+cd ben-api-python-docker-integration
 docker build -t ben-api .
 docker run -p 8585:8585 ben-api
 ```
